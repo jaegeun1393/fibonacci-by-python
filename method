@@ -1,0 +1,6 @@
+Vaild input: 1, 2, 6, 7
+Invaild input: string input
+
+Method: To get the next term in the sequence, add the two previous terms.
+Example: 14th = 13th + 12th = 233 + 144 = 377.
+  {1, 1, 2, 3, 5, 8, 13, 21, 34, 55,....}
